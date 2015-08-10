@@ -5,9 +5,9 @@
 	<artifactId>kafka-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<developers>
+	<!--<developers>
 		<developer>zicat</developer>
-	</developers>
+	</developers> -->
 
 	<dependencies>
 		<dependency>

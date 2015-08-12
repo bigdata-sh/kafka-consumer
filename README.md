@@ -13,7 +13,7 @@ Kafka-consumer is a message reader of kafka for Big data.
 
 # requirements
 
-- JDK1.7 or higher
+- JDK1.7 or higher version
 
 - Maven 3.2 or higher
 
@@ -26,9 +26,7 @@ Kafka-consumer is a message reader of kafka for Big data.
 to build the project, simply run the command as below
 
 ```
-
     mvn clean install
-
 ```
 
 # usage
